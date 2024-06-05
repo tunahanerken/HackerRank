@@ -4,6 +4,9 @@
     {
         static void Main(string[] args)
         {
+            // İster 
+            // Tek elemanlı bir sayı listesi içerisinde bulunan değerlerden baştan ve sondan tam ordaki değeri döndüren bir metoda ihtiyaç vardır.
+
             Environment.SetEnvironmentVariable("OUTPUT_PATH", "D:\\Temp\\Output.txt");
             TextWriter textWriter = new StreamWriter(Environment.GetEnvironmentVariable("OUTPUT_PATH"), true);
 

@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimeConversion", "TimeConve
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindTheMedian", "FindTheMedian\FindTheMedian.csproj", "{1CA78DD6-F0E3-4069-85B5-C8D3EC96DE69}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LonelyInteger", "LonelyInteger\LonelyInteger.csproj", "{505D8EA5-F9DF-402C-A8CF-D8C670D3FC0F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,6 +37,10 @@ Global
 		{1CA78DD6-F0E3-4069-85B5-C8D3EC96DE69}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1CA78DD6-F0E3-4069-85B5-C8D3EC96DE69}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1CA78DD6-F0E3-4069-85B5-C8D3EC96DE69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{505D8EA5-F9DF-402C-A8CF-D8C670D3FC0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{505D8EA5-F9DF-402C-A8CF-D8C670D3FC0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{505D8EA5-F9DF-402C-A8CF-D8C670D3FC0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{505D8EA5-F9DF-402C-A8CF-D8C670D3FC0F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -44,6 +50,7 @@ Global
 		{57F978F6-00E3-48C1-9B40-9CE83CAEC611} = {C453CAE2-F18F-4636-9701-DA09EDA99404}
 		{2EAC9598-FEF5-44AF-8CEE-9C1A1E5BFE8A} = {C453CAE2-F18F-4636-9701-DA09EDA99404}
 		{1CA78DD6-F0E3-4069-85B5-C8D3EC96DE69} = {C453CAE2-F18F-4636-9701-DA09EDA99404}
+		{505D8EA5-F9DF-402C-A8CF-D8C670D3FC0F} = {C453CAE2-F18F-4636-9701-DA09EDA99404}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E84626EA-DAFA-4118-B34C-5E7CE209AFE6}
